@@ -1,0 +1,20 @@
+{
+    "Version": "1.0.0",
+    "Extensions": [
+        "cogs.mod",
+        "cogs.admin",
+        "cogs.events"
+    ],
+    "Libraries": [
+
+    ],
+    "Description": "Extensions for my Uptime Robot Monitor Bot.  I have an update command installed into its code, and it allows it to install this.",
+    "Release Notes": {
+        "description": "First update",
+        "details": [
+            "Added moderation",
+            "Added administration"
+        ],
+        "files": 2
+    }
+}
